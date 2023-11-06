@@ -1,0 +1,92 @@
+.imagen-inicial {
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Comfortaa', sans-serif;
+    background-image: linear-gradient(28deg, #ADD8E6, #FAEBD7, #7da9ce, #98FB98);
+    background-size: cover;
+    margin: 40;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+h3{
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#textoMostrado {
+    display: none;
+}
+
+.center-button {
+    text-align: center;
+}
+
+.imagem-mother{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-memoria1{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-memoria2{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-storage{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-placagrafica{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-fontedealimentacao{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-cpucooler{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-case{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
