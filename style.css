@@ -42,35 +42,14 @@ h3{
     margin: 10px;
 }
 
-.imagem-memoria1{
+.imagem-meucpu{
     max-width: 700px; 
     max-height: 600px;
     border: 10px solid blueviolet;
     margin: 10px;
 }
 
-.imagem-memoria2{
-    max-width: 700px; 
-    max-height: 600px;
-    border: 10px solid blueviolet;
-    margin: 10px;
-}
-
-.imagem-storage{
-    max-width: 700px; 
-    max-height: 600px;
-    border: 10px solid blueviolet;
-    margin: 10px;
-}
-
-.imagem-placagrafica{
-    max-width: 700px; 
-    max-height: 600px;
-    border: 10px solid blueviolet;
-    margin: 10px;
-}
-
-.imagem-fontedealimentacao{
+.imagem-instalaçãocpu{
     max-width: 700px; 
     max-height: 600px;
     border: 10px solid blueviolet;
@@ -84,7 +63,105 @@ h3{
     margin: 10px;
 }
 
+.imagem-instalaçãocpucooler{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-meumemoria1{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-memoria2{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-instalaçãomemoria1e2{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-storage{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-instalaçãostorage{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-fontedealimentacao{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-instalaçãonfonte{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-placagrafica{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-instalaçãoplacagrafica{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
 .imagem-case{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-instalaçãoplacamãe{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-powerbotao{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-sata{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
+
+.imagem-conectorfrontal{
     max-width: 700px; 
     max-height: 600px;
     border: 10px solid blueviolet;
