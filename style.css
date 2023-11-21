@@ -91,6 +91,12 @@ h3{
     margin: 10px;
 }
 
+.imagem-storage{
+    max-width: 700px; 
+    max-height: 600px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+}
 
 .imagem-instalaçãostorage{
     max-width: 700px; 
@@ -148,12 +154,6 @@ h3{
     margin: 10px;
 }
 
-.imagem-sata{
-    max-width: 700px; 
-    max-height: 600px;
-    border: 10px solid blueviolet;
-    margin: 10px;
-}
 
 .imagem-conectorfrontal{
     max-width: 700px; 
